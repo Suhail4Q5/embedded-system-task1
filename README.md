@@ -19,7 +19,7 @@
 Read and display temperature using a sensor.
 Count and display the number of button presses.
 Output data to an LCD or Serial Monitor.
-**📦 Components Used:**
+**Components Used:**
 Arduino Uno
 LM35 temperature sensor
 Push button
