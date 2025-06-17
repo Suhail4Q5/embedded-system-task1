@@ -34,7 +34,7 @@ The LCD is controlled via I2C to save wiring. It displays both temperature and b
 Ideal for learning how to interface sensors and buttons with Arduino.
 Can be expanded for home automation, weather stations, or user-interaction devices.
 
-*output*    :
+*output*    :![Image](https://github.com/user-attachments/assets/cd349929-61a7-468b-aeb8-ba2cf29415f6)
 
   
   
